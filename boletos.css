@@ -1,0 +1,88 @@
+body{
+	background-image:url('imagenes/alemania3.jpg');
+	background-repeat: no-repeat;
+	background-size: 100%;
+}
+.formulario{
+	position: relative;
+	height: 650px;
+	width: 700px;
+	left: 700px;
+	top: 50px;
+	background-color: rgba(10,10,10,0.6);
+
+}
+.registrate{
+	color: white;
+	text-align: center;
+	font-size: 45px;
+	 font-family:Berlin Sans FB;
+}
+.letra{
+	color: white;
+	font-size: 28px;
+	margin-left: 50px;
+	line-height: 65px;
+
+}
+.boton{
+	position: relative;
+	font-size:25px;
+	margin-left: 270px; 
+	top: 50px;
+	border-radius: 15px;
+}
+.inp{
+	position: relative;
+	margin-left: 70px;
+	font-size: 18px;
+}
+.inp1{
+	position: relative;
+	margin-left: 155px;
+	font-size: 18px;
+}
+.inp2{
+	position: relative;
+	margin-left: 150px;
+	font-size: 18px;
+}
+.inp3{
+	position: relative;
+	margin-left: 200px;
+	font-size: 18px;
+}
+.inp4{
+	position: relative;
+	margin-left: 15px;
+	font-size: 18px;
+}
+.inp5{
+	position: relative;
+	margin-left: 110px;
+	font-size: 18px;
+}
+.inp6{
+	position: relative;
+	margin-left: 110px;
+	font-size: 18px;
+}
+.ocul{
+	background-image: url('imagenes/ingresar.png');
+	height: 650px;
+	width: 650px;
+	background-size: 650px;
+	position: relative;
+	top: -600px;
+	margin-left: 50px;
+}
+.ultimo{
+	height: 25px;
+	width: 25px;
+}
+.letra{
+	font-family:  Berlin Sans FB;
+}
+a{
+	color: blue;
+}

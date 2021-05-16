@@ -1,0 +1,16 @@
+body{
+	background-image: url('imagenes/paris3.jpg');
+	background-size: 100%;
+	background-repeat: no-repeat;
+}
+p{
+	position: relative;
+	font-size: 50px;
+	color: white;
+}
+button{
+	position: relative;
+	font-size: 25px;
+	margin-left: 120px;
+	border-radius: 20px;
+}

@@ -1,0 +1,10 @@
+body{
+
+	background: -webkit-linear-gradient(50deg, darkblue 20%, white 90%);
+}
+P{
+	position: relative;
+	font-size: 45px;
+	color: white;
+	font-family:  Berlin Sans FB;
+}

@@ -1,0 +1,54 @@
+body{
+	background: url('imagenes/paris4.jpg');
+	background-size: 100%;
+}
+.cuadro{
+	position: relative;
+	margin-left: 210px;
+	top: -15px;
+	height: 800px;
+	width: 1000px;
+	background-color: rgb(50,50,50,0.8);
+}
+.titulo{
+	font-size: 60px;
+	position: relative;
+	text-align: center;
+	color: white;
+	box-shadow:
+       inset 0 -5em 3em rgba(50,50,50,0.1),
+             0 0  0 2px rgb(255,255,255),
+             0.3em 0.3em 1em rgba(110,110,110);
+
+}
+p{
+	position: relative;
+	font-size: 20px;
+	text-align: center;
+	color: white;
+
+}
+.menu{
+	position: relative;
+	font-size: 35px;
+	margin-left: 270px;
+	top: 40px;
+	}
+.l1{
+	position: relative;
+	font-size: 22px;
+	top: 40px;
+	text-align: center;
+	color: white;
+}
+.botoncito{
+	position: relative;
+	height: 50px;
+	width: 80px;
+	border-radius: 25px;
+	margin-left: 450px;
+	top: 70px;
+	background-color:white;
+	font-family: ;
+	font-size: 20px;
+}
